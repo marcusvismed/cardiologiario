@@ -1,6 +1,6 @@
 # 🫀 Saúde Cardíaca - Dr. Marcus Souza
 
-Website profissional do Dr. Marcus Vinicius Iglesias de Souza, cardiologista especializado no cuidado, prevenção e tratamento de doenças cardíacas. O consultório está localizado em Copacabana, Rio de Janeiro, com foco na saúde e bem-estar cardiovascular de homens e mulheres.
+Site profissional do Dr. Marcus Vinicius Iglesias de Souza, cardiologista especializado no cuidado, prevenção e tratamento de doenças cardíacas. O consultório está localizado em Copacabana, Rio de Janeiro, com foco na saúde e bem-estar cardiovascular de homens e mulheres.
 
 ## 🌐 Acesse o Site
 

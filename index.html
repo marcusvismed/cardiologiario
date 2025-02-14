@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. [Marcus Souza] - Cardiologista</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            color: #333;
+            line-height: 1.6;
+        }
+        .header {
+            background: #005A9C;
+            color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        .header p {
+            font-size: 1.2em;
+        }
+        .section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        .section h2 {
+            margin-bottom: 20px;
+            color: #005A9C;
+            border-bottom: 2px solid #005A9C;
+            padding-bottom: 10px;
+        }
+        .services ul {
+            list-style: none;
+        }
+        .services ul li {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f3f3f3;
+            border-radius: 5px;
+        }
+        .contact {
+            background: #eef;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .contact form {
+            display: flex;
+            flex-direction: column;
+        }
+        .contact input, .contact textarea {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .contact button {
+            background: #005A9C;
+            color: #fff;
+            border: none;
+            padding: 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .contact button:hover {
+            background: #004080;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background: #005A9C;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>Dr. [Seu Nome]</h1>
+        <p>Cardiologista - Consultório em Copacabana, Rio de Janeiro</p>
+    </header>
+
+    <section class="section about">
+        <h2>Sobre Mim</h2>
+        <p>Sou médico cardiologista com experiência no atendimento de pacientes adultos e idosos, focando na prevenção, diagnóstico e tratamento de doenças cardíacas. Meu consultório em Copacabana oferece atendimento personalizado e exames de última geração.</p>
+    </section>
+
+    <section class="section services">
+        <h2>Serviços</h2>
+        <ul>
+            <li>Check-up Cardiológico Completo</li>
+            <li>Eletrocardiograma (ECG)</li>
+            <li>Avaliação de Hipertensão Arterial</li>
+            <li>Acompanhamento Pós-Infarto</li>
+        </ul>
+    </section>
+
+    <section class="section contact">
+        <h2>Contato</h2>
+        <p>Entre em contato para agendar sua consulta ou obter mais informações.</p>
+        <form>
+            <input type="text" name="name" placeholder="Seu Nome" required>
+            <input type="email" name="email" placeholder="Seu E-mail" required>
+            <textarea name="message" rows="5" placeholder="Sua Mensagem" required></textarea>
+            <button type="submit">Enviar Mensagem</button>
+        </form>
+        <p>Telefone: (21) 97229-7794 | Endereço: Av. [Nossa Senhora de Copacabana, 680 sala 1003], Copacabana, Rio de Janeiro</p>
+    </section>
+
+    <footer class="footer">
+        &copy; 2024 Dr. [Marcus Souza] - Cardiologista | Rio de Janeiro - RJ
+    </footer>
+</body>
+</html>

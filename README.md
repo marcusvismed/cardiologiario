@@ -4,7 +4,7 @@ Website profissional do Dr. Marcus Vinicius Iglesias de Souza, cardiologista esp
 
 ## 🌐 Acesse o Site
 
-🔗 [https://seuusuario.github.io/saudecardiaca](https://seuusuario.github.io/saudecardiaca)
+🔗 [https://marcusvismed.github.io/saudecardiaca](https://marcusvismed.github.io/saudecardiaca)
 
 ## 🩺 Sobre o Médico
 
@@ -24,7 +24,7 @@ Dr. Marcus Souza é cardiologista com vasta experiência no atendimento de pacie
 ## 📞 Contato
 
 - 📱 Telefone/WhatsApp: (21) 97229-7794
-- 📧 E-mail: dr.marcusvismed@gmail.com
+- 📧 E-mail: marcusvismed@gmail.com
 
 ## ⚙️ Tecnologias Utilizadas
 

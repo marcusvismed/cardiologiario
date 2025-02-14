@@ -4,7 +4,7 @@ Website profissional do Dr. Marcus Vinicius Iglesias de Souza, cardiologista esp
 
 ## 🌐 Acesse o Site
 
-🔗 [https://marcusvismed.github.io/saudecardiaca](https://marcusvismed.github.io/saudecardiaca)
+🔗 [https://marcusvismed.github.io/saudecardiaca](https://marcusvismed.github.io/cardiologiario)
 
 ## 🩺 Sobre o Médico
 
